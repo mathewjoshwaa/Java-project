@@ -106,8 +106,10 @@ This project was created as part of a web development initiative using **Spring 
 ### Login Page
 ![image](https://github.com/user-attachments/assets/4eada61f-5536-4d05-a352-98db5d56b486)
 
+
 ### Admin login
 ![image](https://github.com/user-attachments/assets/4c8a63ab-7a6d-47f9-aa27-96018dd977fd)
+
 
 ### User Login
 ![image](https://github.com/user-attachments/assets/9233f0fc-b279-4108-8573-84f60c051fe9)
